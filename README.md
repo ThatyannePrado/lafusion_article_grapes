@@ -28,7 +28,6 @@ Stages 1 and 2 form the preprocessing phase, stage 3 the training phase, and sta
 ├── 03_binarize_patches.ipynb     # comparison of binarization schemes and HSV thermometer encoding
 ├── 04_train_wisard.ipynb         # WiSARD/ClusWiSARD training and ablation (address size, patch dim, threshold)
 ├── 05_counting_components.ipynb  # grid inference, connected components, and counting evaluation
-├── artigo.tex                    # paper (LLNCS, Springer format)
 ├── img/                           # paper figures
 └── .gitignore
 ```
