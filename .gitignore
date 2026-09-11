@@ -1,0 +1,6 @@
+﻿binarized/
+patches/
+results/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
